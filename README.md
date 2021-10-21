@@ -17,7 +17,7 @@ DSA Learning series contains total 11 contests which are mentioned below
 5	Mathematics in Competitive Programming
 
 6	Basic optimisation techniques
--	Basic Math/Combinatorics Problems
+  Basic Math/Combinatorics Problems
 
 7	Dynamic Programming Basics
 
